@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-test-cy-repository
+spec:
+  url: https://gitlab.com/stephanie-cy/go-test-cy
