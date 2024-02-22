@@ -7,7 +7,7 @@ metadata:
 spec:
   project: default
   source:
-    path: ./components/go-test-cy/overlays/development
+    path: ./applications/go-test-cy-gitops/components/go-test-cy/overlays/development
     repoURL: https://github.com/stephanie-cy/go-test-cy-gitops.git
     targetRevision: main
   destination:
